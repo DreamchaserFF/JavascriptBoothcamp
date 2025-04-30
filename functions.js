@@ -17,3 +17,7 @@ function contemRoxo(arr){
     }
     return false;
 }
+
+const soma = function (x, y){
+    return x + y;
+}
